@@ -1,4 +1,4 @@
-# LazikKreetodRinnokko discord bot
+# LazikKreeTodRinnokko discord bot
 
 ## Hi, hello, this is my discord bot that i made for our with friend discord server that we are trying to develop.
 
