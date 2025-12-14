@@ -1,0 +1,47 @@
+[
+    {
+        "ServerName": "クリートッド",
+        "UserName": "kreetod",
+        "UserId": 111111111111111111,
+        "XP": 100,
+        "Level": 9999,
+        "TimeInVoiceChatInSeconds": 0,
+        "Gold": 25000,
+        "RolesID": [
+            1179690579647529021,
+            1180954834153771118
+        ],
+        "BanwordsWritten": 0,
+        "SwearingWritten": 228,
+        "ParticipationInEvents": 0,
+        "EventsLaunched": 0,
+        "WasMutedTimes": 0,
+        "NSFWSend": 99999,
+        "ArtsSend": 9,
+        "MemesSend": 999999,
+        "AchievementReached": 0,
+        "EventWinned": 0,
+        "IsPickedAllAutoRoles": true,
+        "ComplaintsSent": 0,
+        "ComplaintsAccepted": 0,
+        "ComplaintsRejected": 0,
+        "SuggestionsSent": 0,
+        "SuggestionsAccepted": 0,
+        "SuggestionsRejected": 0,
+        "CringeKing": true,
+        "Achievements":[
+            "Art newbie(ArtsSend: 25)",
+            "Art enjoer(ArtsSend: 100)",
+            "Art Ross(ArtsSend: 500)",
+            "NSFW newbie(NSFWSend: 25)",
+            "NSFW drocher(NSFWSend: 100)",
+            "NSFW legend(NSFWSend: 500)",
+            "Meme newbie(MemesSend: 25)",
+            "Meme funnyguy(MemesSend: 100)",
+            "Meme archive(MemesSend: 500)",
+            "Materschinnik",
+            "Ban-worder",
+            "Cringe King"
+        ]
+    }
+]

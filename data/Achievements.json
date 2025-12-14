@@ -1,0 +1,14 @@
+[
+    {
+        "Title":"Название ачивки",
+        "Discription":"Способ получения или забавный гейфакт",
+        "StatName" : "NSFWsend",
+        "Value" : 228
+    },
+    {
+        "Title":"Дрочила",
+        "Discription":"Отправить 1000 NSFW картинок/видео в NSFW-канал",
+        "StatName" : "NSFWsend",
+        "Value" : 1000
+    }
+]

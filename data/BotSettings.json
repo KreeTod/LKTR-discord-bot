@@ -1,0 +1,15 @@
+[
+    {
+        "log_chanel_id" : 1111111111111111111,
+        "newbie_chanel_id" : 1111111111111111111,
+        "rules_channel_id" : 1111111111111111111,
+        "rules_is_written" : true,
+        "auto_role_channel_id" : 1111111111111111111,
+        "auto_role_message_id" : 0,
+        "auto_role_is_wroten" : false,
+        "event_channel_id" : 1111111111111111111,
+        "news_channel_id" : 1111111111111111111,
+        "admin_password" : 1234567890,
+        "token" : "nope"
+    }
+]
